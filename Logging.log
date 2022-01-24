@@ -1,2 +1,4 @@
 [INFO ] 2022-01-24 22:04:08.192 [main] CurrencyConverter - User tried to convert INR to CAD for amount 1800.0
 [INFO ] 2022-01-24 22:04:08.198 [main] CurrencyConverter - CAD converted amount is 30.60000166296959
+[INFO ] 2022-01-24 22:17:37.844 [main] CurrencyConverter - User tried to convert INR to Euro for amount 1700.0
+[INFO ] 2022-01-24 22:17:37.851 [main] CurrencyConverter - Euro converted amount is 20.400000177323818
