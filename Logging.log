@@ -1,8 +1,2 @@
- INFO [CurrencyConverter.java:32] - {1=Euro, 2=CAD, 3=USD}
- INFO [CurrencyConverter.java:53] - User tried to convert INR to CAD for amount 2222.0
- INFO [CurrencyConverter.java:53] - User tried to convert INR to CAD for amount 22222.0
- INFO [CurrencyConverter.java:55] - CADconverted amount is 377.77402053028345
- INFO [CurrencyConverter.java:53] - User tried to convert INR to Euro for amount 2000.0
- INFO [CurrencyConverter.java:55] - Euro converted amount is 24.000000208616257
- INFO [CurrencyConverter.java:53] - User tried to convert INR to Euro for amount 3000.0
- INFO [CurrencyConverter.java:55] - Euro converted amount is 36.000000312924385
+[INFO ] 2022-01-24 22:04:08.192 [main] CurrencyConverter - User tried to convert INR to CAD for amount 1800.0
+[INFO ] 2022-01-24 22:04:08.198 [main] CurrencyConverter - CAD converted amount is 30.60000166296959
